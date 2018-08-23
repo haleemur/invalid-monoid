@@ -29,3 +29,5 @@ src\Lib.hs:8:14:
       C:\sr\setup-exe-cache\x86_64-windows\Cabal-simple_Z6RU0evB_2.2.0.1_ghc-8.4.3.exe --builddir=.stack-work\dist\7d103d30 build lib:invalid-monoid exe:invalid-monoid-exe --ghc-options " -ddump-hi -ddump-to-file -fdiagnostics-color=always"
     Process exited with code: ExitFailure 1
 ```
+
+Any ideas on what's going on?
